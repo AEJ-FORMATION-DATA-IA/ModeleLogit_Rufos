@@ -1,0 +1,1 @@
+c'est un exo qui utlise le Model Logit pour predire une maladie de Coeur
